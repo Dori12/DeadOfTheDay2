@@ -1,0 +1,8 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x86
+/SUBSYSTEM:WINDOWS
+"D:\Nothing\Unreal_Projects\ServerTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win32\UE4\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"D:\Nothing\Unreal_Projects\ServerTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Intermediate\Build\Win32\UE4\Development\AdvancedSteamSessions\AdvancedSteamSessions.generated.cpp.obj"
+"D:\Nothing\Unreal_Projects\ServerTest\Intermediate\Build\Win32\UE4\Development\AdvancedSteamSessions\PCLaunch.rc.res"
+/OUT:"D:\Nothing\Unreal_Projects\ServerTest\Plugins\AdvancedSessions\AdvancedSteamSessions\Binaries\Win32\UE4-AdvancedSteamSessions.lib"
